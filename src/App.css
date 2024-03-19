@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.intro-container {
+  margin: 150px;
+  padding: 1.5em;
+  background-color: #F6F7F9;
+}
+
+ .intro-details p {
+  display: flex;
+  justify-content: flex-start;
+  font-family: 'Courier New', monospace;
+  font-size: 30px;
+}
+
+.intro-details h1 {
+
+  font-size: 48px;
+  text-align: center;
+}
+
+.personal-info {
+  margin-left: 150px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.personal-container {
+
+  background-color: #61dafb;
+}
+
+
+
+/* #intro-text {
+  font-weight: bold;
+} */
